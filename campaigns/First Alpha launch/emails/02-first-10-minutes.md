@@ -3,12 +3,12 @@ Preview: No gear and no gym. Here's how to take your first walk with YoYo40+.
 
 Hi {{first_name}},
 
-The hardest part of any new habit is day one. So let's make it easy.
+The hardest part of any new habit is day one. So let's keep it simple.
 
 Here's your first walk, in three steps:
 
 1. **Open YoYo40+** and start a walk.
-2. **Walk for 10 minutes** at a pace that feels comfortable. Around the block counts. So does a lap of the car park at work.
+2. **Walk for 10 minutes** at a pace that feels comfortable. Around the block counts. So does a lap around your workplace.
 3. **Check it's logged.** That's your first small step, done.
 
 Don't worry about speed or distance. Today is only about starting.

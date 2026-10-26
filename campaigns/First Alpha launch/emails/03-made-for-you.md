@@ -6,10 +6,10 @@ Hi {{first_name}},
 Everyone on our waitlist is starting from a different place. So YoYo40+ has a way in for each of you. Find the one that sounds like you.
 
 **New to exercise?**
-Start with the beginner walking plan. Short daily walks, designed for beginners and easy to adjust. You don't need to be fit to start.
+Start with the beginner walking plan. Short daily walks, designed for beginners and can be adjusted. You don't need to be fit to start.
 
 **Exercise now and then?**
-This time, make it stick. One small step a day, with a daily walking goal and 10-minute routines that fit around work and family.
+This time, keep it small enough to stick. One small step a day, with a daily walking goal and 10-minute routines that fit around work and family.
 
 **Already move every day?**
 Add strength and mobility to what you already do, and track it all in one place.

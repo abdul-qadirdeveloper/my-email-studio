@@ -34,3 +34,10 @@ You're getting this because you joined the YoYo40+ waitlist.
 YoYo40+, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
 - Leave `{{company_address}}` and `{{unsubscribe_url}}` exactly as written.
+
+## 5. Keep wording the same across emails
+
+- Write "10 minutes" and "10-minute" in numerals, never "Ten minutes", even at the start of a sentence or in a subject line.
+- Say "simple", not "easy". What is easy differs from person to person.
+- The P.S. gives one small step only, not two.
+- Use wording that works for both UK and US readers (for example, avoid "car park" or "parking lot"). The doctor line stays word for word.

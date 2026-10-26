@@ -1,5 +1,5 @@
 Subject: YoYo40+ is here. Your first step is ready
-Preview: Ten minutes a day to help you stay strong, active and on your own two feet.
+Preview: 10 minutes a day to support staying strong, active and on your own two feet.
 
 Hi {{first_name}},
 
@@ -13,9 +13,9 @@ Here's what's inside:
 - **10-minute strength and mobility routines.** No gym needed.
 - **Simple tracking**, so you can see your steady progress at a glance.
 
-It's built for busy men. Ten minutes fits before work, at lunch or after dinner.
+It's built for busy men. 10 minutes fits before work, at lunch or after dinner.
 
-The aim is simple: keep walking strong at 80, with energy for work and family along the way.
+The aim is simple: keep walking strong at 80, and enjoy energy for work and family along the way.
 
 [Download YoYo40+](https://yoyo40plus.example/app)
 
@@ -27,7 +27,7 @@ The YoYo40+ Team
 
 Younger You after 40
 
-P.S. Today's step: download the app and take a 10-minute walk tonight.
+P.S. Today's step: download the app tonight.
 Talk to your doctor before starting any new exercise program, especially if you have a health condition.
 
 You're getting this because you joined the YoYo40+ waitlist.

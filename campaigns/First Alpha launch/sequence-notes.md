@@ -23,7 +23,7 @@ Each draft uses option 1. All are 50 characters or fewer.
 | # | Option 1 (in draft) | Option 2 | Option 3 |
 |---|---|---|---|
 | 1 | YoYo40+ is here. Your first step is ready | It's here: 10 minutes a day, no gym needed | {{first_name}}, YoYo40+ is live |
-| 2 | Your first 10 minutes, tonight | One walk. Ten minutes. That's day one. | Ready for your first small step? |
+| 2 | Your first 10 minutes, tonight | One walk. 10 minutes. That's day one. | Ready for your first small step? |
 | 3 | Where do you start? Pick your path | New, on and off, or every day? | A way in that fits you |
 | 4 | Why I built YoYo40+ | A short note from AQMA | Your second half, strong |
 
@@ -32,7 +32,7 @@ Each draft uses option 1. All are 50 characters or fewer.
 The plan asks for a different first paragraph per group in E1. The draft uses the Group A line, which the plan also says to use for anyone without a tag. Swap in these if group tags are ready:
 
 - **Group A (default):** You don't need to be fit to start. Your first step is a 10-minute walk. That's it.
-- **Group B:** This time, make it stick. One small step a day, built around a busy week.
+- **Group B:** This time, keep it small enough to stick. One small step a day, built around a busy week.
 - **Group C:** You already move every day. YoYo40+ adds strength and mobility to what you do, and tracks it in one place.
 
 **About E3:** the plan asks for three separate versions. Because group tags aren't confirmed yet, this draft is one email with a short section for each group, so it works for everyone. If the tags are ready by 9 November, we can split it into three versions.
@@ -87,6 +87,9 @@ At any point: downloads, no subscription after 3 days --> T2 also sends
 
 - [ ] AQMA writes the personal lines in E4 (marked in square brackets) and confirms every "I" sentence is true.
 - [ ] Each draft checked with `/marketing:brand-review`.
+- [ ] E4: once price and plans are decided, add the real price to the subscription line, and confirm the app shows plans and price before anyone pays.
+- [ ] E3: confirm the app really has a "beginner walking plan" and a way to pick a path. If not, change the wording and the button text.
+- [ ] E1: confirm the app is live in both stores before 2 Nov, so "Today the app is live" is true.
 - [ ] Tracked links set up. Every draft uses `https://yoyo40plus.example/app` for now.
 - [ ] Founder signs off each email.
 - [ ] Set up in the email tool: create the flow, set the waitlist as the trigger, add the four emails on their dates, add the exit and skip rules above, and turn on tracking.

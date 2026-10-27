@@ -25,7 +25,7 @@ The YoYo40+ Team
 
 Younger You after 40
 
-P.S. Today's step: invite someone you love on a 10-minute walk.
+P.S. Today's step: invite someone you love to join you on a 10-minute walk.
 Talk to your doctor before starting any new exercise program, especially if you have a health condition.
 
 You're getting this because you joined the YoYo40+ waitlist.

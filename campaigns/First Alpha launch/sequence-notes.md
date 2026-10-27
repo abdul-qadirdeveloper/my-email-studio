@@ -11,7 +11,7 @@ These notes go with the drafts in `emails/`. They cover E1 to E4 from `plan.md` 
 |---|---|---|---|---|---|---|
 | 1 | `01-its-here.md` | YoYo40+ is here. Your first step is ready | Announce the launch and get the download | Mon 2 Nov | Download YoYo40+ | Everyone on the waitlist |
 | 2 | `02-first-10-minutes.md` | Your first 10 minutes, tonight | Turn a download (or a maybe) into a first walk | Thu 5 Nov | Start your first walk | Anyone who hasn't logged a first walk |
-| 3 | `03-made-for-you.md` | Where do you start? Pick your path | Show each group where to start | Mon 9 Nov | Pick your path in the app | Everyone not yet subscribed |
+| 3 | `03-made-for-you.md` | Where do you start? Pick your path | Show each group where to start | Mon 9 Nov | Open YoYo40+ | Everyone not yet subscribed |
 | 4 | `04-why-i-built-it.md` | Why I built YoYo40+ | A personal reason to stay, and a gentle ask to subscribe | Thu 12 Nov | Start your subscription | Everyone not yet subscribed |
 
 **The story across the four:** "It's here" → "Here's how to start tonight" → "Here's the path for you" → "Here's why it matters to us." Each email asks for one small step. The ask grows gently, from download to first walk to subscription, with no pressure.
@@ -31,8 +31,8 @@ Each draft uses option 1. All are 50 characters or fewer.
 
 The plan asks for a different first paragraph per group in E1. The draft uses the Group A line, which the plan also says to use for anyone without a tag. Swap in these if group tags are ready:
 
-- **Group A (default):** You don't need to be fit to start. Your first step is a 10-minute walk. That's it.
-- **Group B:** This time, keep it small enough to stick. One small step a day, built around a busy week.
+- **Group A (default):** You don't need to be fit to start. Your first walk is just 10 minutes. That's it.
+- **Group B:** Keep it small enough to stick. One small step a day, built around a busy week.
 - **Group C:** You already move every day. YoYo40+ adds strength and mobility to what you do, and tracks it in one place.
 
 **About E3:** the plan asks for three separate versions. Because group tags aren't confirmed yet, this draft is one email with a short section for each group, so it works for everyone. If the tags are ready by 9 November, we can split it into three versions.
@@ -88,7 +88,8 @@ At any point: downloads, no subscription after 3 days --> T2 also sends
 - [ ] AQMA writes the personal lines in E4 (marked in square brackets) and confirms every "I" sentence is true.
 - [ ] Each draft checked with `/marketing:brand-review`.
 - [ ] E4: once price and plans are decided, add the real price to the subscription line, and confirm the app shows plans and price before anyone pays.
-- [ ] E3: confirm the app really has a "beginner walking plan" and a way to pick a path. If not, change the wording and the button text.
+- [ ] E3: confirm daily walking goals are designed for beginners and can be adjusted, and that the app can track strength and mobility alongside walks.
+- [ ] E2: confirm how a walk gets logged (automatic or a tap), so "Make sure it's logged" matches the app.
 - [ ] E1: confirm the app is live in both stores before 2 Nov, so "Today the app is live" is true.
 - [ ] Tracked links set up. Every draft uses `https://yoyo40plus.example/app` for now.
 - [ ] Founder signs off each email.

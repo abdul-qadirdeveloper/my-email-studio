@@ -41,3 +41,9 @@ YoYo40+, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 - Say "simple", not "easy". What is easy differs from person to person.
 - The P.S. gives one small step only, not two.
 - Use wording that works for both UK and US readers (for example, avoid "car park" or "parking lot"). The doctor line stays word for word.
+
+## 6. Talk about the app's health questions with care
+
+- The app asks about health conditions to suggest an exercise plan. In emails, call these only "a few questions about where you're starting from".
+- Never name a condition (diabetes, heart disease, blood pressure, cholesterol and so on) when describing what the app does. Never say a plan is built for or around a condition.
+- Don't say what happens to health answers (storage, sharing, privacy) unless the founder has confirmed it in writing.

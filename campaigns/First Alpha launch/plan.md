@@ -155,8 +155,8 @@ The budget is small and email only, so most of the cost is time, not money.
 ## 10. Next steps
 
 **Decisions needed before writing emails:**
-1. `[Price and plans]`: monthly price, yearly price, or both?
-2. `[Launch offer]`: free trial, a founding-member price with a real end date, or none? Under our brand rules, we can't invent urgency.
+1. **Price and plans (decided):** the basic app is free. Premium is $10 a year, or $30 once for lifetime access.
+2. **Launch offer (decided):** premium is free for the first month. After that it renews at $10 a year unless cancelled. There is no end date, so emails must not suggest one. Under our brand rules, we can't invent urgency.
 3. `[Group tags]`: do we know each person's group?
 4. `[Real user stories]`: do we have beta users willing to be quoted?
 5. `[Where readers live]`: mostly US? (This affects the Thanksgiving week timing.)

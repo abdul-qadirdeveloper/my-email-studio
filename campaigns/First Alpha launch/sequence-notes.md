@@ -12,7 +12,7 @@ These notes go with the drafts in `emails/`. They cover E1 to E4 from `plan.md` 
 | 1 | `01-its-here.md` | YoYo40+ is here. Your first step is ready | Announce the launch and get the download | Mon 2 Nov | Download YoYo40+ | Everyone on the waitlist |
 | 2 | `02-first-10-minutes.md` | Your first 10 minutes, tonight | Turn a download (or a maybe) into a first walk | Thu 5 Nov | Start your first walk | Anyone who hasn't logged a first walk |
 | 3 | `03-made-for-you.md` | Where do you start? Pick your path | Show each group where to start | Mon 9 Nov | Open YoYo40+ | Everyone not yet subscribed |
-| 4 | `04-why-i-built-it.md` | Why I built YoYo40+ | A personal reason to stay, and a gentle ask to subscribe | Thu 12 Nov | Start your subscription | Everyone not yet subscribed |
+| 4 | `04-why-i-built-it.md` | Why I built YoYo40+ | A personal reason to stay, and a gentle ask to subscribe | Thu 12 Nov | Try premium free for a month | Everyone not yet subscribed |
 
 **The story across the four:** "It's here" → "Here's how to start tonight" → "Here's the path for you" → "Here's why it matters to us." Each email asks for one small step. The ask grows gently, from download to first walk to subscription, with no pressure.
 
@@ -85,9 +85,13 @@ At any point: downloads, no subscription after 3 days --> T2 also sends
 
 ## Before these can go out
 
-- [ ] AQMA writes the personal lines in E4 (marked in square brackets) and confirms every "I" sentence is true.
+- [x] AQMA gives the reason for building the app (written into E4 from AQMA's notes).
+- [ ] AQMA reads E4 and confirms every "I" sentence is true.
 - [ ] Each draft checked with `/marketing:brand-review`.
-- [ ] E4: once price and plans are decided, add the real price to the subscription line, and confirm the app shows plans and price before anyone pays.
+- [x] E4: price and plans added. Basic is free. Premium is free for the first month, then $10 a year or $30 once for lifetime access.
+- [x] E4: the free month renews automatically at $10 a year unless cancelled. E4 says so plainly.
+- [x] E4: the starting questions cover health conditions (diabetes, heart, blood pressure, cholesterol). E4 describes them only as "a few questions about where you're starting from" (see `.claude/rules/emails.md`, part 6).
+- [ ] Before launch: get privacy advice on collecting health answers in the app. Emails say nothing about privacy until then.
 - [ ] E3: confirm daily walking goals are designed for beginners and can be adjusted, and that the app can track strength and mobility alongside walks.
 - [ ] E2: confirm how a walk gets logged (automatic or a tap), so "Make sure it's logged" matches the app.
 - [ ] E1: confirm the app is live in both stores before 2 Nov, so "Today the app is live" is true.

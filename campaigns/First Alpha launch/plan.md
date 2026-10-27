@@ -48,7 +48,7 @@ We split them into three groups. Each one needs a slightly different message.
 
 **By group:**
 - **Group A:** "You don't need to be fit to start. Start with a 10-minute walk."
-- **Group B:** "This time, keep it small enough to stick. One small step a day."
+- **Group B:** "Keep it small enough to stick. One small step a day."
 - **Group C:** "Add strength and mobility to what you already do, and track it in one place."
 
 **Proof we may use:** only real facts about the app, such as routine length, features and price. Real beta user stories go in only with permission and with "Results vary. Your experience may differ." We use no health numbers, no research claims and no promised results (`brand/voice.md`, part 4).

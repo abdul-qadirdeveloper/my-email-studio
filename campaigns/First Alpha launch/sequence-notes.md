@@ -86,7 +86,7 @@ At any point: downloads, no subscription after 3 days --> T2 also sends
 ## Before these can go out
 
 - [x] AQMA gives the reason for building the app (written into E4 from AQMA's notes).
-- [ ] AQMA reads E4 and confirms every "I" sentence is true.
+- [x] AQMA reads E4 and confirms every "I" sentence is true.
 - [ ] Each draft checked with `/marketing:brand-review`.
 - [x] E4: price and plans added. Basic is free. Premium is free for the first month, then $10 a year or $30 once for lifetime access.
 - [x] E4: the free month renews automatically at $10 a year unless cancelled. E4 says so plainly.

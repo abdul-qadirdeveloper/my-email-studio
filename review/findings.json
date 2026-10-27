@@ -1,0 +1,32 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/01-its-here.md",
+      "line": 8,
+      "severity": "medium",
+      "problem": "This copy goes to men who already move every day, but it tells them \"You don't need to be fit to start.\" That doesn't fit the group and can read as talking down, which goes against the Respectful part of voice.md part 1. The personalize step changed the opening and line 16 for this group but left this line as it was.",
+      "fix": "Your first logged walk is just 10 minutes. Add it to what you already do."
+    },
+    {
+      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/02-first-10-minutes.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Line 6 says \"You already move every day\", but line 14 says \"Today is only about starting.\" These daily exercisers have already started, so the two lines clash.",
+      "fix": "Don't worry about speed or distance. Today is only about getting your first walk into the app."
+    },
+    {
+      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/03-made-for-you.md",
+      "line": 6,
+      "severity": "low",
+      "problem": "The opening says YoYo40+ has \"a way in for you\" (just one), then says \"Find the one that sounds like you.\" Readers aren't told there are three paths to choose from, so the sentence doesn't make sense. The main version avoids this by saying \"a way in for each of you\".",
+      "fix": "You already move every day, and YoYo40+ has a way in for you too. There are three paths below. Find the one that sounds like you."
+    },
+    {
+      "file": "campaigns/First Alpha launch/groups/casual-movers/emails/03-made-for-you.md",
+      "line": 6,
+      "severity": "low",
+      "problem": "This has the same mix-up as the daily-exercisers version. It says \"a way in that fits real life\" (just one), then \"Find the one that sounds like you\", before the reader knows there are three paths.",
+      "fix": "Some weeks you move a lot, and some weeks less. YoYo40+ has three ways in that fit real life. Find the one that sounds like you."
+    }
+  ]
+}

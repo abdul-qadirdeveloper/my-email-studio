@@ -3,37 +3,30 @@
   "findings": [
     {
       "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 8,
-      "severity": "high",
-      "problem": "Still not fixed. The detox claim is gone, but \"Do it for a week and you will feel 10 years younger\" still promises a result, a timeline and a number, and says the app makes people younger (voice.md part 4, claims 1 and 3).",
-      "fix": "\"YoYo40+ has a 10-minute daily walking and strength routine. No gym needed. Small daily steps add up to steady progress.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 2,
       "severity": "high",
-      "problem": "Still not fixed. The toxins claim is gone, but the preview still promises a result by a date (\"you'll feel younger in 7 days\") and uses false urgency (\"Doors close tonight\"). This breaks part 4, claims 1, 3 and 7.",
+      "problem": "Still not fixed. The preview promises a result by a date (\"you'll feel younger in 7 days\") and uses false urgency (\"Doors close tonight\"). This breaks voice.md part 4, claims 1, 3 and 7.",
       "fix": "Preview: A simple 10-minute routine you can do at home. No gym needed."
     },
     {
       "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 10,
       "severity": "high",
-      "problem": "Still not fixed. \"This is your last chance. The offer ends at midnight and we won't open it again\" is pressure and false urgency (part 4, claim 7). Nothing shows there is a real offer or deadline.",
-      "fix": "Delete the line. If a real deadline exists, state it plainly once, for example: \"Early access is open until [real date].\""
+      "problem": "Still not fixed. \"This is your last chance. The offer ends at midnight and we won't open it again\" is pressure and false urgency (voice.md part 4, claim 7). Nothing shows there is a real offer or deadline.",
+      "fix": "Delete the line. If a real deadline exists, say it plainly once, for example: \"Early access is open until [real date].\""
     },
     {
       "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 1,
       "severity": "high",
-      "problem": "Still not fixed. \"Detox your body\" is gone, but \"Last chance\" is still false urgency (part 4, claim 7).",
+      "problem": "Still not fixed. \"Last chance\" in the subject is false urgency (voice.md part 4, claim 7).",
       "fix": "Subject: 10 minutes a day, built for busy men"
     },
     {
       "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 14,
       "severity": "medium",
-      "problem": "Still not fixed. There is a second link in the body, and it points to a different address (/blog). emails.md rule 3 allows exactly one main link, always to https://yoyo40plus.example/app, with no other links in the body.",
+      "problem": "Still not fixed. There is a second link in the body, and it goes to a different address (/blog). emails.md rule 3 allows exactly one main link, always to https://yoyo40plus.example/app, and no other links in the body.",
       "fix": "Delete line 14."
     }
   ]

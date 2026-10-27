@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 Busy weeks make it hard to find time to move.
 
-YoYo40+ has a 10-minute daily walking and strength routine. Do it for a week and you will feel 10 years younger.
+YoYo40+ has a 10-minute daily walking and strength routine. Small daily steps, no gym needed.
 
 This is your last chance. The offer ends at midnight and we won't open it again.
 

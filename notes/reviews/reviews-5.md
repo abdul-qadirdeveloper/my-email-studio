@@ -1,63 +1,65 @@
-# Practice reviews: earlier YoYo40+ app (file 5 of 6)
+# YoYo40+ Alpha reviews: set 5 of 6 (reviews 81–100)
 
-> Made-up practice data. These are not real people or real reviews. Never quote them in emails or use them as testimonials.
+> **Made-up practice data.** These people are not real customers. Never quote these reviews in emails or use them as testimonials.
 
-**#81 · Ben C., 44, data analyst · ★★★★☆ (4/5)**
-Easy to start, hard to quit, in a good way. Charts are basic compared to Garmin Connect but fine for me.
+---
 
-**#82 · Trevor S., 59, electrician · ★★★☆☆ (3/5)**
-Exercise pictures don't match the text. The text says left leg, the picture shows the right. Which is it?
+**#81 · ★★★★☆ (4/5)** · Shahid R., 50, textile trader
+Being able to set custom reminder times meant I could fit walks around my prayer times. Small stuff like that matters.
 
-**#83 · Omar F., 52, airport worker · ★★★★★ (5/5)**
-Rotating shifts and long commutes. This is the only fitness app that hasn't made me feel guilty. Gentle and practical.
+**#82 · ★☆☆☆☆ (1/5)** · Doug H., 55, fleet manager
+Every update resets my reminder settings. Every single one.
 
-**#84 · Les G., 62, school bus driver · ★★☆☆☆ (2/5)**
-App closes by itself when I get a phone call during a walk, and the walk is lost.
+**#83 · ★★★☆☆ (3/5)** · Eric S., 46, postman
+The beginner plan is fine, but there's nothing for people who already walk a lot. I need more strength work.
 
-**#85 · Craig V., 46, recruitment consultant · ★★★★☆ (4/5)**
-Good routines, easy to fit around work. Please add a home screen widget like Fitbit has. Opening the app takes a while.
+**#84 · ★★★★★ (5/5)** · Mustafa A., 43, restaurant owner
+Works with no signal, which matters in my basement kitchen. It syncs later. Nice.
 
-**#86 · Fred H., 64, part-time porter · ★★★☆☆ (3/5)**
-Bit confusing at first. Three different screens all said "Today". I wasn't sure which one to use.
+**#85 · ★★☆☆☆ (2/5)** · Gavin L., 49, insurance assessor
+Slow to start, slow to switch tabs, slow to save. It's all just slow.
 
-**#87 · Jake L., 41, personal banker · ★★☆☆☆ (2/5)**
-Great idea, too few videos. I counted 4 videos in the whole app. Everything else is text and a stick figure.
+**#86 · ★★★★☆ (4/5)** · Scott W., 52, store manager
+The weekly summary shows steps, workouts and streaks on one page. Very clear.
 
-**#88 · Prakash D., 55, shopkeeper · ★★★★☆ (4/5)**
-Simple app for simple people like me, and I mean that kindly. Wish it had other languages. My brother would use it in Gujarati.
+**#87 · ★★★☆☆ (3/5)** · Hamza Y., 44, IT technician
+Some videos are upright, some are sideways. Turning the phone mid-workout is annoying.
 
-**#89 · Martin O., 50, HGV driver · ★☆☆☆☆ (1/5)**
-Five minutes into a walk it says "GPS lost" and stops. Every time. Google Maps works fine on the same phone.
+**#88 · ★☆☆☆☆ (1/5)** · Roy K., 61, groundskeeper
+Kept asking me to rate the app. Here's your rating.
 
-**#90 · Ewan R., 47, teacher · ★★★★☆ (4/5)**
-I like the tone. It doesn't promise you'll look like a model. Just "move more, feel better". The app is slow, but the idea is right.
+**#89 · ★★★★★ (5/5)** · Jack O., 47, heating engineer
+10 minutes in the van before my first job. That's it. Been doing it six weeks.
 
-**#91 · Hugh B., 58, farmer · ★★★☆☆ (3/5)**
-Out in the fields with poor signal. The app needs internet to load each exercise, which makes it useless half the time.
+**#90 · ★★★★☆ (4/5)** · Tunde E., 51, accountant
+Clear, kind tone. The number of exercises needs to roughly triple before full launch.
 
-**#92 · Naveed A., 43, mobile phone shop owner · ★★★★★ (5/5)**
-I sell phones and I've tried every fitness app going. This one is the most realistic for busy men. A few bugs, but I'll still give it 5.
+**#91 · ★★☆☆☆ (2/5)** · Alex G., 45, estate manager
+Tried to edit a logged walk and it deleted it instead. An undo button would be nice.
 
-**#93 · Ron P., 61, car park attendant · ★★☆☆☆ (2/5)**
-The writing is good but the instructions for the strength moves are confusing. "Hinge, brace, then press". I don't know what any of that means.
+**#92 · ★★★☆☆ (3/5)** · Prakash M., 54, pharmacist
+Good on iPhone, painful on my Android tablet. The layout is stretched and the buttons overlap.
 
-**#94 · Sam Y., 45, IT project lead · ★★★★☆ (4/5)**
-Switched from Apple Fitness+. Much cheaper, much simpler. Lacks the polish and the video quality. Fine trade-off for me.
+**#93 · ★★★★☆ (4/5)** · Carl B., 48, signal engineer
+The tick-box daily plan is satisfying. I wish ticked items didn't jump to the bottom of the list.
 
-**#95 · Douglas K., 57, accountant · ★★★☆☆ (3/5)**
-It's alright. The weekly summary email is nice. The app itself crashes on the "History" tab.
+**#94 · ★☆☆☆☆ (1/5)** · Malcolm T., 57, warehouse worker
+The help section is just an email address. Nobody answered.
 
-**#96 · Lloyd E., 49, bus driver · ★★★★☆ (4/5)**
-Walk after my shift, a few stretches, done. Would love a version I can follow without looking at my phone, like audio cues.
+**#95 · ★★★★★ (5/5)** · Faisal I., 42, sales director
+I travel every week. The no-equipment routines come with me. Best habit I've built in years.
 
-**#97 · Yusuf T., 53, mosque caretaker · ★★★★★ (5/5)**
-Clear, kind and simple. My friends at the mosque have started using it too. We walk together after evening prayer.
+**#96 · ★★★☆☆ (3/5)** · Ross N., 50, plasterer
+The progress photos feature feels odd for this app. I'd rather have more routines.
 
-**#98 · Gavin W., 42, sales engineer · ★★☆☆☆ (2/5)**
-Felt half finished. Settings page has options that do nothing. Dark mode toggle is there but doesn't work.
+**#97 · ★★☆☆☆ (2/5)** · Dean A., 46, personal banker
+Heart rate sync from my chest strap drops out every few minutes.
 
-**#99 · Harold M., 65, retired builder · ★★★☆☆ (3/5)**
-Good for walking. The stretches need bigger pictures. My eyes aren't what they were.
+**#98 · ★★★★☆ (4/5)** · Javed C., 53, cash-and-carry owner
+The steady approach suits me. A couple of glitches with the streak counter, but support fixed it.
 
-**#100 · Kamal S., 48, restaurant manager · ★★★★☆ (4/5)**
-Better than the Couch to 5K app for me because I don't want to run. Just walk and keep moving. Buggy in places but improving.
+**#99 · ★★★☆☆ (3/5)** · Norman F., 59, librarian
+I like it but my eyes don't. Pale grey text everywhere.
+
+**#100 · ★★★★★ (5/5)** · Kieran H., 44, video editor
+Finally an app that doesn't want an hour a day. Ten minutes I can manage.

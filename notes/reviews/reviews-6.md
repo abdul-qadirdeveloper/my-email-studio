@@ -1,63 +1,65 @@
-# Practice reviews: earlier YoYo40+ app (file 6 of 6)
+# YoYo40+ Alpha reviews: set 6 of 6 (reviews 101–120)
 
-> Made-up practice data. These are not real people or real reviews. Never quote them in emails or use them as testimonials.
+> **Made-up practice data.** These people are not real customers. Never quote these reviews in emails or use them as testimonials.
 
-**#101 · Alistair N., 54, university lecturer · ★★★★☆ (4/5)**
-Thoughtful and sensible. The daily walk goal grew slowly, which I liked. The exercise library needs more visual guides.
+---
 
-**#102 · Danny F., 46, painter and decorator · ★★☆☆☆ (2/5)**
-Kept asking me to rate the app while I was mid-exercise. Then crashed. Here's your rating.
+**#101 · ★★☆☆☆ (2/5)** · Hugh M., 52, chartered surveyor
+Badges unlock for things I didn't do. Got "Week Warrior" after three days.
 
-**#103 · Rashid K., 50, pharmacist · ★★★★★ (5/5)**
-Nice and calm. I do the morning routine before the shop opens. 10 minutes, no kit. Recommended to my brothers.
+**#102 · ★★★★☆ (4/5)** · Salman J., 47, pharmacist
+The walking goal eases off on very hot days, which I appreciate in summer. I'd like the same for rainy ones.
 
-**#104 · Glen T., 59, truck mechanic · ★★★☆☆ (3/5)**
-Not bad, not great. Step counting works better than it did. Still no videos for the harder moves.
+**#103 · ★☆☆☆☆ (1/5)** · Bob S., 60, maintenance fitter
+Can't change my birth year after sign-up. Now the app thinks I'm 41. I wish.
 
-**#105 · Liam C., 40, startup founder · ★★★☆☆ (3/5)**
-Good product thinking, weak build. The onboarding is lovely, then the app gets slow and buggy once you're in.
+**#104 · ★★★★★ (5/5)** · Dev P., 49, logistics manager
+The hourly "stand and stretch" prompts have changed my workday.
 
-**#106 · Bernard O., 63, church warden · ★★★★★ (5/5)**
-Gentle and respectful. Doesn't treat me like I'm past it. I walk more now than I have in years.
+**#105 · ★★★☆☆ (3/5)** · Marcus L., 45, tiler
+Good starter. Needs more exercises, especially for core and balance.
 
-**#107 · Scott D., 47, financial adviser · ★★☆☆☆ (2/5)**
-I don't understand the exercise instructions at all. Too many technical words. Ended up copying a YouTube video instead.
+**#106 · ★★☆☆☆ (2/5)** · Fraser D., 54, ambulance dispatcher
+Pressed "Start walk" and nothing happened. Pressed again and it started two walks at once.
 
-**#108 · Pradeep V., 52, software architect · ★★★★☆ (4/5)**
-Solid basics. Would love an export to CSV and a proper link to Google Fit. The current sync is patchy.
+**#107 · ★★★★☆ (4/5)** · Idris W., 43, procurement officer
+Love the calm voice coach. The speed of the app needs work.
 
-**#109 · Arthur L., 66, part-time gardener · ★★★☆☆ (3/5)**
-OK. The voice in the app is nice and plain. Pictures are too small and the buttons are close together.
+**#108 · ★★★☆☆ (3/5)** · Lewis B., 48, insurance underwriter
+The menus feel like they were designed by three different people.
 
-**#110 · Marcus J., 44, fitness instructor's husband · ★★★★☆ (4/5)**
-My wife teaches classes and I never joined. This is my way in, at my own pace. Needs more images though.
+**#109 · ★★★★★ (5/5)** · Mahmood S., 56, shop owner
+The gentle stair routine fits into my day at the shop, and the park walks are now something I do with my grandkids.
 
-**#111 · Tony R., 58, taxi driver · ★☆☆☆☆ (1/5)**
-Updated last week and now it won't open at all. Shame, I was enjoying it.
+**#110 · ★☆☆☆☆ (1/5)** · Wayne R., 50, scaffolder
+Terrible battery drain even when I'm not using it. GPS seems to run in the background all day.
 
-**#112 · Kris B., 45, nightclub manager · ★★★★☆ (4/5)**
-Works around my weird hours, which is rare. Lags a bit on older phones. Overall a keeper.
+**#111 · ★★★★☆ (4/5)** · Nadeem K., 46, finance manager
+The "why this exercise" notes under each move are a nice touch. More moves please.
 
-**#113 · Ifeanyi E., 51, NHS porter · ★★★★★ (5/5)**
-Simple, steady, kind. Does exactly what it says. I'm on my feet all day and the stretches help me wind down.
+**#112 · ★★☆☆☆ (2/5)** · Trevor H., 57, locksmith
+The font size changed by itself after an update. Now half my plan is cut off.
 
-**#114 · Darren H., 48, site manager · ★★☆☆☆ (2/5)**
-Couldn't follow the shoulder routine. Two drawings, both from the same angle. No idea which way to turn my arm.
+**#113 · ★★★☆☆ (3/5)** · Asif O., 41, junior doctor
+Fine for walking. I'd pay for the full version if the strength library grows.
 
-**#115 · Clifford A., 60, accountant · ★★★☆☆ (3/5)**
-I prefer Fitbit for tracking and use this just for the routines. They should pick one thing and do it really well.
+**#114 · ★★★★★ (5/5)** · Glen T., 53, carpenter
+No hype, no shouting. Just "do this today". Love it.
 
-**#116 · Harun Z., 42, delivery firm owner · ★★★★☆ (4/5)**
-Simple and fast to start a session, once the app has loaded. The loading is the problem, not the content.
+**#115 · ★★☆☆☆ (2/5)** · Victor A., 49, network engineer
+Asks for location permission three times every time it opens. I said no. It kept asking.
 
-**#117 · Ken W., 57, factory supervisor · ★★★☆☆ (3/5)**
-The streak feature is nice but it broke when the clocks changed and reset me to zero. Small thing but annoying.
+**#116 · ★★★★☆ (4/5)** · Rizwan L., 44, business owner
+Good for busy dads. The 10-minute family walk mode is my favourite bit.
 
-**#118 · Euan M., 49, oil rig worker · ★★★★☆ (4/5)**
-Two weeks on, two weeks off. Offline mode would make this perfect. When I have signal, it's great.
+**#117 · ★☆☆☆☆ (1/5)** · Jeff N., 58, bus inspector
+The app said I walked 0 steps on the day I did a 10k charity walk. Not motivating.
 
-**#119 · Dev P., 46, car salesman · ★★☆☆☆ (2/5)**
-Too many glitches. Workout says "complete" after 2 minutes. Progress chart shows days I didn't do anything.
+**#118 · ★★★☆☆ (3/5)** · Hamid P., 52, travel agency owner
+Content gets 4 stars, the app itself gets 2. Averaging out.
 
-**#120 · Walter G., 64, semi-retired joiner · ★★★★★ (5/5)**
-Took a while to learn the buttons, but now I use it every day. Steady wins. Looking forward to the new version.
+**#119 · ★★★★☆ (4/5)** · Stephen O., 47, quality inspector
+Good start. Fix the slow loading and add more exercises and I'm in for the long run.
+
+**#120 · ★★★★★ (5/5)** · Zahid M., 50, shift supervisor
+I'm walking more and I feel more like myself. Small daily steps, like it says.

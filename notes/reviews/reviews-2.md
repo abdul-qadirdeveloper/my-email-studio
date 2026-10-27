@@ -1,63 +1,65 @@
-# Practice reviews: earlier YoYo40+ app (file 2 of 6)
+# YoYo40+ Alpha reviews: set 2 of 6 (reviews 21–40)
 
-> Made-up practice data. These are not real people or real reviews. Never quote them in emails or use them as testimonials.
+> **Made-up practice data.** These people are not real customers. Never quote these reviews in emails or use them as testimonials.
 
-**#21 · Andrew N., 51, insurance broker · ★★★★☆ (4/5)**
-I like that it doesn't count calories like MyFitnessPal does. I just want to move more. Loading the routines is a bit slow on wifi.
+---
 
-**#22 · Rob S., 46, mechanic · ★★★☆☆ (3/5)**
-Decent. The walking side is great. The mobility videos are about 10 seconds long and loop, which isn't enough to see the full move.
+**#21 · ★★★☆☆ (3/5)** · Pete S., 48, electrician
+Exercise library is too small. I counted eleven moves in total. Fine for week one, stale by week three.
 
-**#23 · Hassan M., 54, restaurant owner · ★★★★★ (5/5)**
-I'm busy 12 hours a day. 10 minutes is all I have and this app respects that. My wife says I'm less grumpy.
+**#22 · ★★★★☆ (4/5)** · Adeel K., 43, project manager
+I like the "one small step" card each morning. Short and doable. I'd like to swap it when I've already done that one this week.
 
-**#24 · Graham W., 60, council worker · ★★☆☆☆ (2/5)**
-Text is too small even with my glasses on, and you can't make it bigger. The exercise pictures are blurry too.
+**#23 · ★☆☆☆☆ (1/5)** · Martin B., 54, car salesman
+Lost 40 days of data after an update. No backup, no warning. Gutted.
 
-**#25 · Jason P., 43, estate agent · ★★★★☆ (4/5)**
-Simple and it works with Google Fit. Would be 5 stars if the app didn't reset my weekly goal every time it updated.
+**#24 · ★★★★★ (5/5)** · Greg T., 45, firefighter
+Shift mode is the reason I stayed. Most fitness apps assume you work 9 to 5.
 
-**#26 · Colin D., 58, security guard · ★☆☆☆☆ (1/5)**
-Wouldn't even install on my phone. Said it needs a newer Android. Nothing in the store listing said so.
+**#25 · ★★☆☆☆ (2/5)** · Dan W., 50, logistics planner
+The menu icons have no labels. I honestly don't know what the little yo-yo icon does. Tapped it, nothing happened.
 
-**#27 · Mike H., 49, operations director · ★★★☆☆ (3/5)**
-I came from Peloton, so this felt very bare. Fine for a beginner, I suppose. Needs proper video demos, not cartoon drawings.
+**#26 · ★★★★☆ (4/5)** · Sanjay P., 56, corner shop owner
+The chair-based strength routine is perfect on busy days in the shop. Videos buffer a lot on mobile data though.
 
-**#28 · Sanjay R., 45, doctor's receptionist · ★★★★☆ (4/5)**
-Nice gentle start. The "wall push-up" instructions were confusing, I did it facing the wrong way at first. Otherwise good.
+**#27 · ★★★☆☆ (3/5)** · Kevin M., 41, recruiter
+Decent. Too easy for me after a month. There's no "level up" option, just the same beginner plan forever.
 
-**#29 · Pete L., 62, gardener · ★★★★★ (5/5)**
-Does what it says. Walk, stretch, done. No adverts. Thank you.
+**#28 · ★★★★★ (5/5)** · Alan R., 60, lorry driver
+Workouts I can do in a lay-by. Nobody else makes stuff for blokes like me.
 
-**#30 · Wayne B., 47, factory shift lead · ★★☆☆☆ (2/5)**
-Kept losing my walks if I locked the phone. Checked with Samsung Health and I'd done 6,000 steps. YoYo40+ said 800.
+**#29 · ★★☆☆☆ (2/5)** · Tariq H., 47, hospital porter
+No smartwatch app yet, and the phone has to be in my pocket to count steps. So all the stairs I climb at work barely show up.
 
-**#31 · Richard F., 53, architect · ★★★★☆ (4/5)**
-Calm, grown-up tone, which I appreciate. Many fitness apps talk to you like you're 19. Wish it had an Apple Watch app.
+**#30 · ★☆☆☆☆ (1/5)** · Richard N., 53, civil servant
+Crashes every time I try to log a workout by hand. Reported it twice, no reply.
 
-**#32 · Dave C., 50, carpet fitter · ★★★☆☆ (3/5)**
-My knees aren't great so I liked the seated options. But the description for the "step-back lunge" was a whole paragraph of jargon. Just show me.
+**#31 · ★★★★☆ (4/5)** · Femi O., 44, nurse
+Good warm-up and cool-down videos. The coaching cues are clear. I'd love the voice in other languages so my dad could use it too.
 
-**#33 · Femi O., 44, nurse · ★★★★★ (5/5)**
-Shift worker here. Love that I can do the routine at 3am in the staff room without any kit. Wish there were more of them.
+**#32 · ★★★☆☆ (3/5)** · Jon P., 49, bank clerk
+The weekly progress chart is nice, but it shows rest days in red like I failed. Feels a bit off for an app that talks about steady progress.
 
-**#34 · Ian G., 57, bus mechanic · ★★☆☆☆ (2/5)**
-The app crashed after the last update and wiped my history. 4 months of walks gone. Not happy.
+**#33 · ★★★★★ (5/5)** · Mohammed Z., 42, accountant
+The only fitness app that's never made me feel guilty. Calm tone, clear steps, done.
 
-**#35 · Carl M., 41, marketing manager · ★★★★☆ (4/5)**
-Good for building a habit. The streak badge kept me going. A few more exercise videos would help a lot.
+**#34 · ★★☆☆☆ (2/5)** · Stuart L., 58, printer
+Sign-up with email worked. Sign-up with Google just kept spinning. I had to make a new account and lost my first week.
 
-**#36 · Bill T., 65, shop assistant · ★★★☆☆ (3/5)**
-It's OK. Took my grandson to set it up. The menus are confusing for someone who isn't good with phones.
+**#35 · ★★★★☆ (4/5)** · Vikram D., 50, dentist
+The knee-friendly squat options are a nice touch. It should be clearer that you can tap a move to swap it.
 
-**#37 · Zubair A., 48, taxi firm owner · ★★★★☆ (4/5)**
-Switched from Pacer. This has better routines, but Pacer was faster and never crashed. Swings and roundabouts.
+**#36 · ★★★☆☆ (3/5)** · Lee A., 46, gas engineer
+Settings are buried. Took me ages to change kilometres to miles.
 
-**#38 · Keith J., 59, joiner · ★☆☆☆☆ (1/5)**
-Spinning wheel. Every. Single. Time. Can't get past the loading screen.
+**#37 · ★☆☆☆☆ (1/5)** · Barry C., 62, caretaker
+Too many screens before I can just start a walk. I want one big button that says "Go".
 
-**#39 · Lee R., 42, warehouse manager · ★★★★★ (5/5)**
-Never been a gym person. This doesn't make me feel bad about that. The walking goals are realistic. Brilliant.
+**#38 · ★★★★★ (5/5)** · Ahmed Y., 48, runs a taxi firm
+Started at about 2,000 steps a day, now often 7,000. The app never pushed too hard, it just nudged.
 
-**#40 · Stuart P., 55, finance officer · ★★★☆☆ (3/5)**
-Content is good, app is clunky. Buttons sometimes need two or three taps before they work.
+**#39 · ★★☆☆☆ (2/5)** · Colin F., 55, office manager
+The rest timer beeps even when my phone is on silent. Embarrassing in an open-plan office.
+
+**#40 · ★★★★☆ (4/5)** · Ian G., 43, graphic designer
+Clean design once you learn it. Learning it took me a week.

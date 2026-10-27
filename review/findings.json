@@ -1,32 +1,40 @@
 {
+  "folder": "campaigns/test-bad",
   "findings": [
     {
-      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/01-its-here.md",
+      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 8,
-      "severity": "medium",
-      "problem": "This copy goes to men who already move every day, but it tells them \"You don't need to be fit to start.\" That doesn't fit the group and can read as talking down, which goes against the Respectful part of voice.md part 1. The personalize step changed the opening and line 16 for this group but left this line as it was.",
-      "fix": "Your first logged walk is just 10 minutes. Add it to what you already do."
+      "severity": "high",
+      "problem": "Still not fixed. The detox claim is gone, but \"Do it for a week and you will feel 10 years younger\" still promises a result, a timeline and a number, and says the app makes people younger (voice.md part 4, claims 1 and 3).",
+      "fix": "\"YoYo40+ has a 10-minute daily walking and strength routine. No gym needed. Small daily steps add up to steady progress.\""
     },
     {
-      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/02-first-10-minutes.md",
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 2,
+      "severity": "high",
+      "problem": "Still not fixed. The toxins claim is gone, but the preview still promises a result by a date (\"you'll feel younger in 7 days\") and uses false urgency (\"Doors close tonight\"). This breaks part 4, claims 1, 3 and 7.",
+      "fix": "Preview: A simple 10-minute routine you can do at home. No gym needed."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 10,
+      "severity": "high",
+      "problem": "Still not fixed. \"This is your last chance. The offer ends at midnight and we won't open it again\" is pressure and false urgency (part 4, claim 7). Nothing shows there is a real offer or deadline.",
+      "fix": "Delete the line. If a real deadline exists, state it plainly once, for example: \"Early access is open until [real date].\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Still not fixed. \"Detox your body\" is gone, but \"Last chance\" is still false urgency (part 4, claim 7).",
+      "fix": "Subject: 10 minutes a day, built for busy men"
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 14,
-      "severity": "low",
-      "problem": "Line 6 says \"You already move every day\", but line 14 says \"Today is only about starting.\" These daily exercisers have already started, so the two lines clash.",
-      "fix": "Don't worry about speed or distance. Today is only about getting your first walk into the app."
-    },
-    {
-      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/03-made-for-you.md",
-      "line": 6,
-      "severity": "low",
-      "problem": "The opening says YoYo40+ has \"a way in for you\" (just one), then says \"Find the one that sounds like you.\" Readers aren't told there are three paths to choose from, so the sentence doesn't make sense. The main version avoids this by saying \"a way in for each of you\".",
-      "fix": "You already move every day, and YoYo40+ has a way in for you too. There are three paths below. Find the one that sounds like you."
-    },
-    {
-      "file": "campaigns/First Alpha launch/groups/casual-movers/emails/03-made-for-you.md",
-      "line": 6,
-      "severity": "low",
-      "problem": "This has the same mix-up as the daily-exercisers version. It says \"a way in that fits real life\" (just one), then \"Find the one that sounds like you\", before the reader knows there are three paths.",
-      "fix": "Some weeks you move a lot, and some weeks less. YoYo40+ has three ways in that fit real life. Find the one that sounds like you."
+      "severity": "medium",
+      "problem": "Still not fixed. There is a second link in the body, and it points to a different address (/blog). emails.md rule 3 allows exactly one main link, always to https://yoyo40plus.example/app, with no other links in the body.",
+      "fix": "Delete line 14."
     }
   ]
 }

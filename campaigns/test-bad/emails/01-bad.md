@@ -1,17 +1,17 @@
-Subject: Last chance to detox your body after 40
-Preview: Flush out the toxins and feel younger in 7 days. Doors close tonight.
+Subject: Last chance to start moving after 40
+Preview: A 10-minute routine, and you'll feel younger in 7 days. Doors close tonight.
 
 Hi {{first_name}},
 
-Your body is full of toxins. After 40, they build up and slow you down.
+Busy weeks make it hard to find time to move.
 
-YoYo40+ has a 10-minute daily detox routine that flushes them out. Do it for a week and you will feel 10 years younger.
+YoYo40+ has a 10-minute daily walking and strength routine. Do it for a week and you will feel 10 years younger.
 
 This is your last chance. The offer ends at midnight and we won't open it again.
 
-[Start your detox now](https://yoyo40plus.example/app)
+[Start your first 10 minutes](https://yoyo40plus.example/app)
 
-Want to read more about how detox works? [Read the science](https://yoyo40plus.example/blog/detox)
+Want to read more about daily walking? [Read the blog](https://yoyo40plus.example/blog)
 
 See you on your walk.
 

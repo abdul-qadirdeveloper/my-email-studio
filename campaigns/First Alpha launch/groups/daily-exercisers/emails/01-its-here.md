@@ -1,4 +1,4 @@
-Subject: YoYo40+ is here. Your first step is ready
+Subject: Strength, mobility and tracking. YoYo40+ is here
 Preview: 10 minutes a day to support staying strong, active and on your own two feet.
 
 Hi {{first_name}},

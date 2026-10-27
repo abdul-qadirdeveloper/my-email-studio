@@ -9,7 +9,7 @@ These notes go with the drafts in `emails/`. They cover E1 to E4 from `plan.md` 
 
 | # | File | Main subject | Purpose | Send | Main button | Who gets it |
 |---|---|---|---|---|---|---|
-| 1 | `01-its-here.md` | YoYo40+ is here. Your first step is ready | Announce the launch and get the download | Mon 2 Nov | Download YoYo40+ | Everyone on the waitlist |
+| 1 | `01-its-here.md` | 10 calm minutes, every day. YoYo40+ is here | Announce the launch and get the download | Mon 2 Nov | Download YoYo40+ | Everyone on the waitlist |
 | 2 | `02-first-10-minutes.md` | Your first 10 minutes, tonight | Turn a download (or a maybe) into a first walk | Thu 5 Nov | Start your first walk | Anyone who hasn't logged a first walk |
 | 3 | `03-made-for-you.md` | Where do you start? Pick your path | Show each group where to start | Mon 9 Nov | Open YoYo40+ | Everyone not yet subscribed |
 | 4 | `04-why-i-built-it.md` | Why I built YoYo40+ | A personal reason to stay, and a gentle ask to subscribe | Thu 12 Nov | Try premium free for a month | Everyone not yet subscribed |
@@ -22,7 +22,7 @@ Each draft uses option 1. All are 50 characters or fewer.
 
 | # | Option 1 (in draft) | Option 2 | Option 3 |
 |---|---|---|---|
-| 1 | YoYo40+ is here. Your first step is ready | It's here: 10 minutes a day, no gym needed | {{first_name}}, YoYo40+ is live |
+| 1 | 10 calm minutes, every day. YoYo40+ is here | It's here: 10 minutes a day, no gym needed | {{first_name}}, YoYo40+ is live |
 | 2 | Your first 10 minutes, tonight | One walk. 10 minutes. That's day one. | Ready for your first small step? |
 | 3 | Where do you start? Pick your path | New, on and off, or every day? | A way in that fits you |
 | 4 | Why I built YoYo40+ | A short note from AQMA | Your second half, strong |

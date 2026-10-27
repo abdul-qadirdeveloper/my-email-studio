@@ -1,33 +1,12 @@
 {
-  "folder": "campaigns/test-bad",
+  "folder": "campaigns/First Alpha launch",
   "findings": [
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 2,
-      "severity": "high",
-      "problem": "Still not fixed. The preview promises a result by a date (\"you'll feel younger in 7 days\") and uses false urgency (\"Doors close tonight\"). This breaks voice.md part 4, claims 1, 3 and 7.",
-      "fix": "Preview: A simple 10-minute routine you can do at home. No gym needed."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 10,
-      "severity": "high",
-      "problem": "Still not fixed. \"This is your last chance. The offer ends at midnight and we won't open it again\" is pressure and false urgency (voice.md part 4, claim 7). Nothing shows there is a real offer or deadline.",
-      "fix": "Delete the line. If a real deadline exists, say it plainly once, for example: \"Early access is open until [real date].\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Still not fixed. \"Last chance\" in the subject is false urgency (voice.md part 4, claim 7).",
-      "fix": "Subject: 10 minutes a day, built for busy men"
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 14,
-      "severity": "medium",
-      "problem": "Still not fixed. There is a second link in the body, and it goes to a different address (/blog). emails.md rule 3 allows exactly one main link, always to https://yoyo40plus.example/app, and no other links in the body.",
-      "fix": "Delete line 14."
+      "file": "campaigns/First Alpha launch/groups/daily-exercisers/emails/01-its-here.md",
+      "line": 8,
+      "severity": "low",
+      "problem": "This line was copied from the beginner version. It tells men who already exercise every day 'You don't need to be fit to start. Your first walk is just 10 minutes. That's it.' That contradicts the opening line ('You already move every day') and reads as talking down to them. It breaks the 'Respectful' part of the voice (brand/voice.md, part 1: 'No hype, no pressure, no talking down').",
+      "fix": "Replace line 8 with: \"You don't need to change your routine. Just add 10 minutes of strength and mobility to what you already do.\""
     }
   ]
 }

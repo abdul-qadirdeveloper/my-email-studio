@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 You already move every day, so you know how much it matters. The app is live, and it's ready to add to what you do.
 
-You don't need to be fit to start. Your first walk is just 10 minutes. That's it.
+You don't need to change your routine. Just add 10 minutes of strength and mobility to what you already do.
 
 Here's what's inside:
 
